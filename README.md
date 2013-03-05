@@ -10,8 +10,8 @@ and (2) Sqlite or Postgresql (Sqlite is fine, but using Postgresql will enable y
 deploy it to Heroku fast and easily). This means you can do this in the terminal,  
     
     ruby -v  
-	  rails -v  
-	  psql -v  
+    rails -v  
+    psql -v  
 
 ### Big Picture  
 Rails is built using Model-View-Controller components. Not sure what these are? Read this. http://guides.rubyonrails.org/getting_started.html#the-mvc-architecture.  
